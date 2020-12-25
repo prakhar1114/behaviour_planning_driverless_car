@@ -7,7 +7,7 @@ Within the Follow Trajectory state of the finite state machine, the module imple
 
 ## Running the code
 * Run the CARLA Simulator
-* Open a new terminal. Change to the folder which contains this folder 'Python Client/Course4FinalProject'. Then write the following code in the terminal.
+* Open a new terminal. Change the directory to 'Python Client/Course4FinalProject'. Then write the following code in the terminal.
 ```
 python3 module_7.py
 ```
